@@ -1,6 +1,7 @@
-import requests
 import subprocess
 import time
+import requests
+
 
 # starting server
 def start_real_server():
